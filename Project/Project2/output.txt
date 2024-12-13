@@ -1,0 +1,10 @@
+Height for V = 1 m3 is 0.365295406023807
+Height for V = 2 m3 is 0.5960272467004829
+Height for V = 3 m3 is 0.8023560468443445
+Height for V = 4 m3 is 1.0
+Height for V = 5 m3 is 1.1976439531556555
+Height for V = 6 m3 is 1.403972753299517
+Height for V = 7 m3 is 1.6347045939761928
+Roots:
+  0.0684
+  0.4013

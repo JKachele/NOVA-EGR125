@@ -1,0 +1,21 @@
+Enter inflow for Street 1: 300
+Enter outlfow for Street 1: 300
+Enter inflow for Street 2: 300
+Enter outlfow for Street 2: 300
+Enter inflow for Street 3: 300
+Enter outlfow for Street 3: 300
+Enter inflow for Street 4: 300
+Enter outlfow for Street 4: 300
+Flows AD, CB, BA, DC with Block AD, Street 1 closed:
+0 0 0 0
+Flows AD, CB, BA, DC with Block CB, Street 2 closed:
+0 0 0 0
+Flows AD, CB, BA, DC with Block BA, Street 3 closed:
+0 0 0 0
+Flows AD, CB, BA, DC with Block DC, Street 4 closed:
+0 0 0 0
+Block AD should be shut down.
+Block CB should be shut down.
+Block BA should be shut down.
+Block DC should be shut down.
+
